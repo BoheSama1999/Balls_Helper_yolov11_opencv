@@ -1,0 +1,6 @@
+numpy==2.3.1
+opencv_python==4.11.0.86
+Pillow==11.2.1
+pywin32==310
+torch==2.7.1
+ultralytics==8.3.159
